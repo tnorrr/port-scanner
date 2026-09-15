@@ -1,7 +1,0 @@
-portscanner.py
-setup.py
-portscanner.egg-info/PKG-INFO
-portscanner.egg-info/SOURCES.txt
-portscanner.egg-info/dependency_links.txt
-portscanner.egg-info/entry_points.txt
-portscanner.egg-info/top_level.txt
