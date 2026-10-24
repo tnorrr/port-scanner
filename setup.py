@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="portscanner",
-    version="1.1.0",
+    version="2.0.0",
     description="Multithreaded TCP port scanner with banner grabbing",
     license="MIT",
     py_modules=["portscanner"],
