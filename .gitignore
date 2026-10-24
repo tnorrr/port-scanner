@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Scan output — don't commit real scan results, they can reveal network info
+*.json
+*.csv
+
+# Editor junk
+.vscode/
+.DS_Store
+
+*.egg-info/
